@@ -30,4 +30,5 @@ spring:
       dir: C:\imagem
   jwt:
     secret: "2a12Dpr9yBjZksrrC34hnQEG1uDyF5HKckz3Cob4j5md1Jl3jXPF1ejzi"
+    expiration: 60000000000
 
